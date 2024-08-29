@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/task5/static/css/main.56165ccd.css",
+    "main.js": "/task5/static/js/main.dec44900.js",
+    "static/js/453.cd155de4.chunk.js": "/task5/static/js/453.cd155de4.chunk.js",
+    "static/media/1673986436931.jpg": "/task5/static/media/1673986436931.9e40fafe43b18efd71e5.jpg",
+    "static/media/healthcare-and-medicine-concept-smart-medical-doctor-working-with-stethoscope-at-modern-hospital-free-photo.jpg": "/task5/static/media/healthcare-and-medicine-concept-smart-medical-doctor-working-with-stethoscope-at-modern-hospital-free-photo.7787651c3e5915796313.jpg",
+    "static/media/doctors-group-medical-over-blue-clinic-background-88012369.jpg": "/task5/static/media/doctors-group-medical-over-blue-clinic-background-88012369.859020b0406a5f5b8b48.jpg",
+    "index.html": "/task5/index.html",
+    "main.56165ccd.css.map": "/task5/static/css/main.56165ccd.css.map",
+    "main.dec44900.js.map": "/task5/static/js/main.dec44900.js.map",
+    "453.cd155de4.chunk.js.map": "/task5/static/js/453.cd155de4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56165ccd.css",
+    "static/js/main.dec44900.js"
+  ]
+}
